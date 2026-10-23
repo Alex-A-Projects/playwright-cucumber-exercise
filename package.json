@@ -1,4 +1,5 @@
 {
+  "name": "playwright-cucumber-exercise",
   "scripts": {
     "test": "cucumber-js --format json:report.json --exit",
     "report": "node generate-report.js"
